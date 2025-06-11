@@ -4,6 +4,7 @@
 // @version      3.0.0
 // @description  Bypasses 99.9% of anti-adblock systems with military-grade stealth
 // @author       Mofex_
+// @license      MIT
 // @match        *://*/*
 // @grant        GM_addStyle
 // @grant        GM_xmlhttpRequest
@@ -11,6 +12,11 @@
 // @grant        GM_setValue
 // @run-at       document-start
 // @connect      raw.githubusercontent.com
+// @icon         https://raw.githubusercontent.com/AbdulrahmanDev/aak-reloaded/main/icon.png
+// @homepageURL  https://github.com/AbdulrahmanDev/aak-reloaded
+// @supportURL   https://github.com/AbdulrahmanDev/aak-reloaded/issues
+// @updateURL    https://raw.githubusercontent.com/AbdulrahmanDev/aak-reloaded/main/aak-reloaded.user.js
+// @downloadURL  https://raw.githubusercontent.com/AbdulrahmanDev/aak-reloaded/main/aak-reloaded.user.js
 // ==/UserScript==
 
 (function() {

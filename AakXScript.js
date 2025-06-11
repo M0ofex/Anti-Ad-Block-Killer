@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Anti-Adblock Killer Reloaded (Ultimate Stealth)
+// @name         Anti-Adblock KillerX
 // @namespace    https://github.com/AbdulrahmanDev/aak-reloaded
 // @version      3.0.0
 // @description  Bypasses 99.9% of anti-adblock systems with military-grade stealth

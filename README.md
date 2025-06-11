@@ -75,5 +75,3 @@ This version features:
 - Improved feature descriptions
 - Better contribution guidelines
 - Prominent legal disclaimer
-
-Would you like me to make any adjustments to this version?

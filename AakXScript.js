@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Anti-Adblock KillerX
-// @namespace    https://github.com/AbdulrahmanDev/aak-reloaded
+// @namespace    https://github.com/M0ofex/anti-adblock-killerx/blob/main/AakXScript.js
 // @version      3.0.0
 // @description  Bypasses 99.9% of anti-adblock systems with military-grade stealth
-// @author       Abdulrahman
+// @author       Mofex_
 // @match        *://*/*
 // @grant        GM_addStyle
 // @grant        GM_xmlhttpRequest
